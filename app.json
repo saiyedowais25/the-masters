@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "The Master's",
+    "slug": "the-masters-gym",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "platforms": [
+      "android"
+    ],
+    "android": {
+      "package": "com.themasters.gym",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
